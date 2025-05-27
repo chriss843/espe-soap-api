@@ -1,10 +1,17 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE 
-Carrera: Ingeniería en Tecnologías de la Información
-Integrantes:Cristian Jácome 
-            Ruth Changalombo
+## Ingeniería en Tecnologías de la Información
+### Integrantes:
+Cristian Jácome 
+            
+Ruth Changalombo
 
-Correo: chrissjacome@gmail.com
-GitHub: chriss843
+### Correo: 
+
+chrissjacome@gmail.com
+
+### GitHub: 
+
+chriss843
 
 # Tracking SOAP API - Envíos Express S.A.C.
 Este proyecto implementa una API SOAP utilizando **Spring Boot**, **Apache CXF** y **PostgreSQL**, 
