@@ -31,6 +31,7 @@ Permite a los clientes consultar el estado de sus paquetes utilizando un número
 
 ### 1. Clonar el repositoriobash
 git clone https://github.com/chriss843/espe-soap-api.git
+
 cd espe-soap-api
 
 ### 2. Crear la base de datos
@@ -40,5 +41,7 @@ CREATE DATABASE bd-envios-express;
 ./mvnw spring-boot:run
 
 ### 4. Endpoints SOAP disponibles:
+
 http://localhost:8080/services/TrackingService?wsdl
+
 http://localhost:8080/services/PackageExpressService?wsdl
